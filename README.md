@@ -8,7 +8,7 @@ Assumes Java is installed.
 
 # Install other dependencies #
 
-sudo apt-get install libswt-gtk-3-jni libswt-gtk-3-java libswt-webkit-gtk-3-jni
+sudo apt-get install libswt-gtk-3-jni libswt-gtk-3-java libswt-webkit-gtk-3-jni libwebkitgtk-1.0-0
 
 Notes:
 
