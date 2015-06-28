@@ -6,16 +6,16 @@ http://grosan.co.uk/raspberry-pi-java-and-javascript-desktop-applications-jjr-ar
 
 Assumes Java is installed.
 
-=== Install other dependencies ===
+# Install other dependencies #
 
-sudo apt-get install libswt-gtk-3-jni libswt-gtk-3-jav libswt-webkit-gtk-3-jni
+sudo apt-get install libswt-gtk-3-jni libswt-gtk-3-java libswt-webkit-gtk-3-jni
 
 Notes:
 
 To test JavaScript integration, start a local HTTP (Apache/Nginx) server and place html/index.html
 in its document root, or update the static Main class URL property to point to a different domain.
 
-=== Compile and run ===
+# Compile and run #
 
 To compile and execute the application on Raspbian use:
 
